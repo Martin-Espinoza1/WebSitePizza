@@ -110,7 +110,7 @@ h1,h2,h3,h4,h5{
     top: 75px;
     left: 0;
     width: 100%;
-    background: rgba(0,0,0,.85);
+    background: rgba(7, 69, 108, 0.85);
     padding:0px;
     margin:0px;
     z-index: 2000px;
@@ -131,10 +131,10 @@ h1,h2,h3,h4,h5{
     
 }
 .menu__link:hover{
-     background-color: #DE423A;
+     background-color: #3ad9de;
 }
 .menu__link--select{
-    background-color: #DE423A;
+    background-color: #0c6bef;
     
 }
 .mostrar{
@@ -151,7 +151,7 @@ h1,h2,h3,h4,h5{
     position: absolute;
     width: 100%;
     height: 100%;
-    background: rgba(0,0,0,0.7);
+    background: rgba(0, 0, 0, 0.7);
     z-index: 1000;
     top: 0;
 }
@@ -176,7 +176,7 @@ h1,h2,h3,h4,h5{
 
 /*----------------Estilos Principales------------------*/
 .group--color .container{
-	background-color: #DE423A;
+	background-color: #1215cb;
 	padding: 10px;
 	text-align: center;
 	
@@ -184,7 +184,7 @@ h1,h2,h3,h4,h5{
 .main__title{
 	margin: 15px 0;
 	font-size: 2.8em;
-	font-family: 'Sacramento',cursive;
+	font-family:'sans-serif'
 	
 }
 .column__title{
@@ -206,7 +206,7 @@ h1,h2,h3,h4,h5{
 	
 }
 .group__title{
-	font-family:'Sacramento',cursive;
+	font-family:'sans',cursive;
 	text-align: center;
 	font-weight: bold;
 	font-size: 1.8em;
